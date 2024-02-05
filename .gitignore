@@ -1,0 +1,9 @@
+/crash-reports
+/logs
+/*.json
+
+/*.log
+/world
+
+/python/test.py
+/python/__pycache__
